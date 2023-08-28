@@ -12,6 +12,7 @@ This repository contains my solutions to the [AtCoder Educational DP Contest](ht
 You can browse through the solutions in this repository by clicking on the links below:
 
 - [A - Frog 1](a.cpp)
+- [B - Frog 2](b.cpp)
 
 ## Usage
 
