@@ -13,6 +13,7 @@ You can browse through the solutions in this repository by clicking on the links
 
 - [A - Frog 1](a.cpp)
 - [B - Frog 2](b.cpp)
+- [C - Vacation](c.cpp)
 
 ## Usage
 
